@@ -13,4 +13,4 @@ A simple personal profile page built using HTML, CSS, and JavaScript.
 2. Open `index.html` in any web browser
 
 ## Author
-Your Name
+Norwellyn
